@@ -24,13 +24,12 @@ document.addEventListener('DOMContentLoaded',() => {
   })
   .add({
     targets: '.headerContentImage',
-    translateX: [800, 0],
+    translateY: [800, 0],
     opacity: [0, 1],
     duration: 1200,
     easing: 'easeInOutQuart',
     offset: '-=1400',
     delay: 250,
-    rotate: '-1turn'
   })
   var buttonEl = document.querySelector('.getStartedButton');
 
