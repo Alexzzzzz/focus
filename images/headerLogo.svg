@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143.448" height="40.198" viewBox="0 0 143.448 40.198">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.017" x2="1.209" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcf8c8"/>
+      <stop offset="1" stop-color="#d3978d"/>
+    </linearGradient>
+  </defs>
+  <g id="logo" transform="translate(0 0)">
+    <g id="Group" transform="translate(0)">
+      <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M1.143,11.206C-1.843,5.991,2.8,0,9.82,0H20.105c7.639,0,12.209,6.971,8,12.2l-4.03,5,4.03,5c4.212,5.227-.359,12.2-8,12.2H9.82C2.8,34.4-1.843,28.408,1.143,23.194L4.576,17.2Z" transform="translate(-0.222)" fill="rgba(255,255,255,0.24)"/>
+      <path id="Rectangle" d="M6.819,12.569C1.983,7.429,6.479,0,14.426,0h5.7c7.624,0,12.2,6.9,8.016,12.1l-4.018,4.993,4.018,4.993c4.181,5.2-.392,12.1-8.016,12.1h-10.1c-7.007,0-11.646-5.928-8.693-11.107L7.131,12.9Z" transform="translate(12.998)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Focus" transform="translate(58.448 32.198)" fill="#d8bd9e" font-size="31" font-family="CircularStd-Black, Circular Std" font-weight="800"><tspan x="0" y="0">Focus</tspan></text>
+  </g>
+</svg>
